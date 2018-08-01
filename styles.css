@@ -1,0 +1,27 @@
+h1 {
+  color:blue;
+  font-size: 12px;
+}
+
+.page-section {
+  font-size: 30px;
+  color: lavender;
+  background-color: navy;
+  text-align: center;
+}
+
+#welcome {
+  display: flex
+}
+
+#welcome img {
+  float: left;
+  max-height: 300px;
+  width: 300px;
+}
+
+#welcome h1 {
+  float: right;
+  width: 50%;
+  text-align: center;
+}
